@@ -26,7 +26,7 @@ const menu = [
   },
   {
     Name: "Pasta Ala Bolognese",
-    IMG: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/m7z63ak8dclxrau3ksi2",
+    IMG: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/m7z63ak8dclxrau3ks",
     Side: "Garlic bread",
     Price: "$20.99",
   },
@@ -34,7 +34,7 @@ const menu = [
     Name: "Branizi Fillet with Rice",
     IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fik.imagekit.io%2Fmunchery%2Frecipes%2Ftr%3Aw-320%2Fpan-seared-branzino.jpeg&imgrefurl=https%3A%2F%2Fwww.munchery.com%2Frecipes%2Ffish-beautiful-fish%2Fpan-seared-branzino%2F&tbnid=u808YTDh9d9DkM&vet=12ahUKEwif2tLK7Yj8AhUcs3IEHWwGBHsQMygAegUIARDWAQ..i&docid=xHdy1VusmA10AM&w=320&h=320&q=Branzino%20Fillet%20with%20Rice%20professional&ved=2ahUKEwif2tLK7Yj8AhUcs3IEHWwGBHsQMygAegUIARDWAQ",
     Side: "Mashed Potatoes",
-    Price: "$41.99",
+    Price: "$38.99",
   },
   {
     Name: "Kanafeh",
@@ -44,7 +44,7 @@ const menu = [
   },
   {
     Name: "Crepe cake Slice",
-    IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1921%2F3233%2Farticles%2FSUNCORE_FOODS_RAINBOW_CREPE_CAKE_800X800_1daf080f-bac5-4b60-b462-89c8d768f705.jpg%3Fv%3D1613721338&imgrefurl=https%3A%2F%2Fsuncorefoods.com%2Fblogs%2Frecipes%2Frainbow-crepe-cake&tbnid=ojDZMXGew1rIxM&vet=12ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3AQ..i&docid=zsHg6JX-GjKg5M&w=800&h=800&q=crepe%20cake%20professional&ved=2ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3AQ",
+    IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1921%2F3233%2Farticles%2FSUNCORE_FOODS_RAINBOW_CREPE_CAKE_800X800_1daf080f-bac5-4b60-b462-89c8d768f705.jpg%3Fv%3D1613721338&imgrefurl=https%3A%2F%2Fsuncorefoods.com%2Fblogs%2Frecipes%2Frainbow-crepe-cake&tbnid=ojDZMXGew1rIxM&vet=12ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3AQ..i&docid=zsHg6JX-GjKg5M&w=800&h=800&q=crepe%20cake%20professional&ved=2ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3A",
     Side: "Fruit bowl",
     Price: "$5.99",
   },
