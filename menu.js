@@ -21,7 +21,7 @@ const menu = [
   {
     Name: "Chicken over rice ",
     IMG: "https://static01.nyt.com/images/2015/12/21/dining/21COOKING_CHICKENnONION2/21COOKING_CHICKENnONION2-superJumbo.jpg",
-    Side: "Kani Salad",
+    Side: "Lentil Soup",
     Price: "$36.99",
   },
   {
@@ -43,15 +43,15 @@ const menu = [
     Price: "$11.99",
   },
   {
-    Name: "Crepe cake Slice",
+    Name: "Crepe Cake Slice",
     IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1921%2F3233%2Farticles%2FSUNCORE_FOODS_RAINBOW_CREPE_CAKE_800X800_1daf080f-bac5-4b60-b462-89c8d768f705.jpg%3Fv%3D1613721338&imgrefurl=https%3A%2F%2Fsuncorefoods.com%2Fblogs%2Frecipes%2Frainbow-crepe-cake&tbnid=ojDZMXGew1rIxM&vet=12ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3AQ..i&docid=zsHg6JX-GjKg5M&w=800&h=800&q=crepe%20cake%20professional&ved=2ahUKEwj84IT_7oj8AhV_s3IEHRVnBrsQMygPegUIARD3A",
-    Side: "Fruit bowl",
+    Side: "Fruit Serving",
     Price: "$5.99",
   },
   {
     Name: "Ice Cream",
     IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F5%2F2017%2F04%2Fshutterstock_276826247.jpg%3Fw%3D1024%26h%3D1536&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fblog%2Fice-cream-photo-tips&tbnid=K2gNsUBIPoFZEM&vet=12ahUKEwjiscTa7oj8AhXokXIEHbvUCoIQMygIegUIARDVAQ..i&docid=Mp3ml8_XJVM_jM&w=1024&h=1536&q=ice%20cream%20professional&ved=2ahUKEwjiscTa7oj8AhXokXIEHbvUCoIQMygIegUIARDVAQ",
-    Side: "Choclate dip + Toppings",
+    Side: "Chocolate dip + Toppings",
     Price: "$4.99",
   },
 ];
