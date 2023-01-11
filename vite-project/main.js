@@ -10,7 +10,7 @@ document.querySelector("#app").innerHTML = `
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1>Hello Vite!</h1>
+    <h1>Food Vite!</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
@@ -18,7 +18,7 @@ document.querySelector("#app").innerHTML = `
       Click on the Vite logo to learn more
     </p>
   </div>
-  
+ 
 `;
 console.log(menu);
 
@@ -58,3 +58,13 @@ function DessertMenu() {
 }
 
 setupCounter(document.querySelector("#counter"));
+
+DOM.changetheme.addEventListener("click", function () {
+  if (document.body.classList.contains("warm")) {
+    document.body.classList.add("cool");
+    document.body.classList.remove("warm");
+  } else {
+    document.body.classList.add("warm");
+    document.body.classList.remove("cool");
+  }
+});

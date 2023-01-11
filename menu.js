@@ -1,7 +1,7 @@
 export { menu };
 const menu = [
   {
-    Name: "5 Assorted Sushi Rolls (8 pieces each roll)",
+    Name: "6 Assorted Sushi Rolls (8 pieces each roll)",
     IMG: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fproperfoodie.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fsushi-rolls-hero-1.jpg&imgrefurl=https%3A%2F%2Fproperfoodie.com%2Fsushi-rolls%2F&tbnid=oDl4L1_VgCkG6M&vet=12ahUKEwjF7L_OrYb8AhUAi3IEHZIXD54QMygEegUIARDVAQ..i&docid=DA1en57T3BwRXM&w=796&h=796&q=5%20sushi%20rolls%20pictures&ved=2ahUKEwjF7L_OrYb8AhUAi3IEHZIXD54QMygEegUIARDVAQ ",
     Side: "Kani Salad",
     Price: "$45.99",
