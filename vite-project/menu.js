@@ -1,4 +1,3 @@
-export { menu };
 const menu = [
   {
     Name: "6 Assorted Sushi Rolls (8 pieces each roll)",
@@ -55,3 +54,4 @@ const menu = [
     Price: "$4.99",
   },
 ];
+export { menu };
