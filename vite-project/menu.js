@@ -54,4 +54,4 @@ const menu = [
     Price: "$4.99",
   },
 ];
-export { menu };
+export let Menu = menu;
